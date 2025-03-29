@@ -17,7 +17,7 @@ Excited to share my project on an AI-driven travel planner that helps users find
 ⚙ Tech Stack:
 💻 Python | 🎨 Streamlit | 🧠 LangChain | 🌍 Google GenAI
 
-Here is the link to my repository : https://lnkd.in/gVMDA6Ew
+Here is the link to my repository : https://github.com/Santoshi1806/AI_Powered_Travel_Planner
 
 A huge thanks to Kanav Bansal Sir and Innomatics Research Labs for their guidance and support in this project! 🙌
 
