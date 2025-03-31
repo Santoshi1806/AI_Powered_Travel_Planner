@@ -4,7 +4,7 @@ from langchain_core.messages import SystemMessage, HumanMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # Set your Google GenAI API key
-GOOGLE_GENAI_API_KEY = 
+GOOGLE_GENAI_API_KEY = "_____"
 
 # Initialize Google GenAI
 genai.configure(api_key=GOOGLE_GENAI_API_KEY)
